@@ -22,3 +22,5 @@ qucik and simple
 
 use git merge --no-ff -m "xx" dev
 
+use git stash
+
