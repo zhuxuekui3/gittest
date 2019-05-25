@@ -7,5 +7,6 @@ git log
 git reflog
 git reset --hard 
 
+git tracks changes
 
 
