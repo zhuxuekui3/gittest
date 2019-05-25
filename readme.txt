@@ -2,4 +2,10 @@ this is a git.
 
 F2 可以退出编辑状态,进入命令行.然后我们按照一步步操作可以走出来.
 
+git add
+git log
+git reflog
+git reset --hard 
+
+
 
