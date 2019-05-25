@@ -16,5 +16,5 @@ remember 3 status:
 git branch dev
 git checkout dev
 
-so so 
+create a new branch is quick and simple
 
