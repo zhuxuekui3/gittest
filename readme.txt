@@ -12,3 +12,9 @@ git tracks changes
 remember 3 status:
 工作区,暂存区,仓库
 
+
+git branch dev
+git checkout dev
+
+so so 
+
