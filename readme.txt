@@ -9,4 +9,6 @@ git reset --hard
 
 git tracks changes
 
+remember 3 status:
+工作区,暂存区,仓库
 
