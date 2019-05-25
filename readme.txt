@@ -20,3 +20,5 @@ create a new branch is quick and simple
 
 qucik and simple
 
+use git merge --no-ff -m "xx" dev
+
