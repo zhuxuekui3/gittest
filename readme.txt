@@ -24,3 +24,7 @@ use git merge --no-ff -m "xx" dev
 
 use git stash
 
+git branch -D dev/feature
+
+origin 是远程仓库的名称
+
