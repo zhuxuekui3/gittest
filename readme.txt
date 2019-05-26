@@ -42,6 +42,10 @@ git checkout -b dev origin/dev
 建立与远程库分支的关联:
 git branch --set-upstream-to=origin/dev dev
 
+git log
+
+
+
 
 
 
