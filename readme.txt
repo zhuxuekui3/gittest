@@ -44,7 +44,7 @@ git branch --set-upstream-to=origin/dev dev
 
 git log
 
-
+git reflog
 
 
 
