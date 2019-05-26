@@ -33,3 +33,26 @@ git branch -D dev/feature
 origin 是远程仓库的名称
 
 >>>>>>> dev
+
+
+多人协作:
+创建与远程库对应的分支:
+git checkout -b dev origin/dev
+
+建立与远程库分支的关联:
+git branch --set-upstream-to=origin/dev dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
