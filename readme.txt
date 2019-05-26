@@ -22,5 +22,14 @@ qucik and simple
 
 use git merge --no-ff -m "xx" dev
 
+<<<<<<< HEAD
 
 git stash is useful
+=======
+use git stash
+
+git branch -D dev/feature
+
+origin 是远程仓库的名称
+
+>>>>>>> dev
